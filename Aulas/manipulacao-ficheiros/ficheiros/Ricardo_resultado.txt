@@ -1,0 +1,10 @@
+Nome: Ricardo
+Ano de Nascimento: 1992
+Rendimentos Mensais: 5000
+Despesas Mensais: 2000
+Montante do Crédito: 500000.0
+Prazo em anos: 40
+Idade: 33
+Remanescente: 3000.0
+Mensalidade: 1041.6666666666667
+Situação: Aprovado

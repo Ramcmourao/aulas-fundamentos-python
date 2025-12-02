@@ -1,0 +1,4 @@
+Nome: Ricardo
+Ano de Nascimento: 1992
+Rendimentos Mensais: 5000
+Despesas Mensais: 2000
